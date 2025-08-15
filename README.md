@@ -18,7 +18,16 @@ My focus lies in building, analyzing, and understanding **remote administration 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kk159963&show_icons=true&theme=radical)
+![kk159963's GitHub stats](https://github-readme-stats.vercel.app/api?username=kk159963&show_icons=true&theme=radical)
+
+---
+
+## 🏆 Badges & Achievements
+
+![C++](https://img.shields.io/badge/C++-Expert-blue)
+![C#](https://img.shields.io/badge/C%23-Expert-blueviolet)
+![Python](https://img.shields.io/badge/Python-Advanced-yellow)
+![Red Team](https://img.shields.io/badge/RedTeam-Research-red)
 
 ---
 
