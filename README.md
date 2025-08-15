@@ -13,9 +13,8 @@
 
 **Languages**
 - C++ ▰▰▰▰▰▰▰▰▰▰ 100%
-- C# ▰▰▰▰▰▰▰▰▰▱ 90%
-- Python ▰▰▰▰▰▰▰▰▱▱ 80%
-- Assembly ▰▰▰▰▰▰▰▱▱▱ 70%
+- C# ▰▰▰▰▰▰▰▰▰▰▰ 100%
+- Python ▰▰▰▰▰▰▰▰▰▱ 80%
 
 **Offensive Security**
 - Red Team Operations ▰▰▰▰▰▰▰▰▰▰ 100%
