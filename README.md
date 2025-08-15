@@ -33,7 +33,6 @@ My focus lies in building, analyzing, and understanding **remote administration 
 
 ![kk159963's GitHub stats](https://github-readme-stats.vercel.app/api?username="kk159963"&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username="kk159963"&layout=compact&theme=radical)
 
 ---
 
