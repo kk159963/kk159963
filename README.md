@@ -45,7 +45,8 @@ _______   _______   _______   _______
 ## 📊 GitHub Stats
 
 <p align="center">
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=kk159963&theme=radical&no-frame=true&row=1&column=6" width="450" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kk159963&layout=compact&theme=radical" width="400" />
 </p>
 
