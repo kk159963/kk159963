@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mr.Da
-🔗 [點我進入黑底版個人介紹](https://kk159963.github.io)
+
 
 > 🔥 Red Team Researcher & Offensive Security Enthusiast  
 > "I break things to understand them, and I build solutions to protect them." 🔐
