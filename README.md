@@ -4,7 +4,7 @@
 > "I break things to understand them, and I build solutions to protect them." 🔐
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300"/>
+  <img src="https://dl5.weshineapp.com/gif/20160922/t3_b767405b123f35e5c2667e720aff57d8.gif" width="300"/>
 </p>
 
 ---
