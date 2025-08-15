@@ -25,7 +25,7 @@
 **Techniques**
 - Memory Injection & API Hooking  
 - Fileless Execution & Payload Obfuscation  
-- AMSI / ETW Bypass Techniques  
+- AMSI / ETW / EDR Bypass Techniques  
 - Reverse Engineering & Debugging  
 
 <p align="center">
